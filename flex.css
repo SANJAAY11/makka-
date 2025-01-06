@@ -1,0 +1,9 @@
+ul{
+    display:flex;
+
+}
+ul div{
+    
+    margin: 30px;
+    width:100vw;
+}
